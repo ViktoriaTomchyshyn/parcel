@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="data">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAABgAAAQAAAAAAAAAAAAAAAAAAAAASAAAAQAA=</HashCode>
+      <FileName>NP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="parcel">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAIAAAAAAAQAAEAAEAAAAAAAAAQggAAEAACAAAAA=</HashCode>
+      <FileName>NP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pricedParcel">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAIAAAQAAEAAAAAAAAAAAAAAAACAAAAAACAA=</HashCode>
+      <FileName>NP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Perekaz">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAQEAEAAAAAAARAAAgEAAAAAUIA=</HashCode>
+      <FileName>NP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="adress" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAACAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NP.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="person" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>NP.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,17 @@
+Class Perekaz
+
+Vidpravnyk
+ 
+First name: gkhfhg
+Last name: mghnmg
+NumOfMobile: 458748
+
+Otrymuvatch
+
+First name: bmnvmnbvm
+Last name: vmbnm
+NumOfMobile: 5986895
+
+Costs: 500
+Komisiya: 25
+Paid. 
